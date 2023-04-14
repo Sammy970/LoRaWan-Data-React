@@ -1,0 +1,1002 @@
+[
+    {
+        "country": "Afghanistan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Albania",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Algeria",
+        "frequencyPlan": "",
+        "regulatoryDocument": "CONDITIONS D’UTILISATION DES EQUIPEMENTS D’IDENTIFICATION PAR RADIOFREQUENCES - RFID"
+    },
+    {
+        "country": "Andorra",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Angola",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Argentina",
+        "frequencyPlan": "AU915-928",
+        "regulatoryDocument": "RESOL-2018-581-APN-MM"
+    },
+    {
+        "country": "Armenia",
+        "frequencyPlan": "",
+        "regulatoryDocument": "EN 302 208"
+    },
+    {
+        "country": "Australia",
+        "frequencyPlan": "AU915-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Austria",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Azerbaijan",
+        "frequencyPlan": "unknown, no CEPT",
+        "regulatoryDocument": "EN 302 208, CEPT Rec. 70-03"
+    },
+    {
+        "country": "Bahamas",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Bahrain",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Kingdom Of Bahrain National Frequency Plan"
+    },
+    {
+        "country": "Bangladesh",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Barbados",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Belarus",
+        "frequencyPlan": "unknown, limited CEPT",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Belgium",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Belize",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Benin",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Bhutan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Bolivia",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Botswana",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Brazil",
+        "frequencyPlan": "AU915-928",
+        "regulatoryDocument": "National Telecommunications Agency (ANATEL) Resolution No. 680, from June 27, 2017 - Portuguese only,  Article 10  National Telecommunications Agency (ANATEL) Act No. 14448, from December 4, 2017 - Portuguese only Section 10.3"
+    },
+    {
+        "country": "Brunei",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Bulgaria",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Burkina Faso",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Burundi",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Cabo Verde",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Cambodia",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Cameroon",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Canada",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Central African Republic (CAR)",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Chad",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Chile",
+        "frequencyPlan": "AU915-928",
+        "regulatoryDocument": "FIJA NORMA TECNICA DE EQUIPOS DE ALCANCE REDUCIDO"
+    },
+    {
+        "country": "China",
+        "frequencyPlan": "CN470-510CN779-787",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Colombia",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Comoros",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Republic of the Congo",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Costa Rica",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Cote d’Ivoire",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Croatia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Cuba",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Curaçao",
+        "frequencyPlan": "",
+        "regulatoryDocument": "Ministeriële regeling vrijstelling telecommunicatiemachtiging 2015"
+    },
+    {
+        "country": "Cyprus",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Czech Republic",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Denmark",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Djibouti",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Dominica",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Dominican Republic",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Ecuador",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Egypt",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "El Salvador",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Equatorial Guinea",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Eritrea",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Estonia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Eswatini (formerly Swaziland)",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Ethiopia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Fiji",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Finland",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "France",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Gabon",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Gambia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Georgia",
+        "frequencyPlan": "unknown, limited CEPT",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Germany",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Non-specific Short Range Devices (SRD) regulations, CEPT Rec. 70-03"
+    },
+    {
+        "country": "Ghana",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Greece",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Radio frequency regulations, 433MHz SRD regulations, 868MHz SRD regulations, CEPT Rec. 70-03"
+    },
+    {
+        "country": "Grenada",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Guatemala",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Guinea",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Guinea-Bissau",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Guyana",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Haiti",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Honduras",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Hong Kong (different than China)",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Hungary",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Iceland",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "India",
+        "frequencyPlan": "IN865-867",
+        "regulatoryDocument": "Use of low power wireless equipments in the frequency band 865-867MHz for RFID"
+    },
+    {
+        "country": "Indonesia",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Iran",
+        "frequencyPlan": "",
+        "regulatoryDocument": "EN 302 208"
+    },
+    {
+        "country": "Iraq",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Ireland",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Israel",
+        "frequencyPlan": "",
+        "regulatoryDocument": "EN 302 208"
+    },
+    {
+        "country": "Italy",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Jamaica",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Japan",
+        "frequencyPlan": "AS920-923 (“AS1”)",
+        "regulatoryDocument": "ARIB STD-T108"
+    },
+    {
+        "country": "Jordan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kazakhstan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kenya",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kiribati",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kosovo",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kuwait",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Kyrgyzstan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Laos",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Latvia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Lebanon",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Lesotho",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03, Radio Spectrum Management Guidelines and Procedures 2014"
+    },
+    {
+        "country": "Liberia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Libya",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Liechtenstein",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Lithuania",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Luxembourg",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Madagascar",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Malawi",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Malaysia",
+        "frequencyPlan": "AS920-923 (“AS1”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Maldives",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Mali",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Malta",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Marshall Islands",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Mauritania",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Mauritius",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Mexico",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Micronesia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Moldova",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Monaco",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Mongolia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Montenegro",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Morocco",
+        "frequencyPlan": "",
+        "regulatoryDocument": "Decision ANRT/DG/Nº08/13 - 20th June 2013"
+    },
+    {
+        "country": "Mozambique",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Myanmar (Burma)",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Namibia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Nauru",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Nepal",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Netherlands",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015, CEPT Rec. 70-03"
+    },
+    {
+        "country": "New Zealand",
+        "frequencyPlan": "AU915-928",
+        "regulatoryDocument": "Radio Spectrum Management"
+    },
+    {
+        "country": "Nicaragua",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Niger",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Nigeria",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "North Macedonia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "North Korea",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Norway",
+        "frequencyPlan": "unknown, limited CEPT",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Oman",
+        "frequencyPlan": "",
+        "regulatoryDocument": "EN 302 208"
+    },
+    {
+        "country": "Pakistan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Palau",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Palestine",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Panama",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Papua New Guinea",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Paraguay",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Peru",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Philippines",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "NOTE: This is not a license free band. If you connect to a commercial telecoms operator you are however allowed to use thier frequencies. Please check the rules and obtain a license before running a gateway."
+    },
+    {
+        "country": "Poland",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Portugal",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Puerto Rico",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Qatar",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Romania",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Russia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03, Decision ГКРЧ 07-20-03-001, Appendix 10"
+    },
+    {
+        "country": "Rwanda",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Saint Lucia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Samoa",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "San Marino",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Saudi Arabia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "National frequency plan in the kingdom of Saudi Arabia"
+    },
+    {
+        "country": "Senegal",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Serbia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Seychelles",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Sierra Leone",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Singapore",
+        "frequencyPlan": "AS920-923 (“AS1”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Slovakia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Slovenia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Solomon Islands",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Somalia",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "South Africa",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03, The Radio Frequency Spectrum Regulations 2015, Amendment December 2021"
+    },
+    {
+        "country": "South Korea",
+        "frequencyPlan": "KR920-923",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "South Sudan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Spain",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Sri Lanka",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Sudan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Suriname",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Sweden",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Svenska frekvensplanen, CEPT Rec. 70-03"
+    },
+    {
+        "country": "Switzerland",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Syria",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Taiwan",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": "LP0002 2016 or LP0002 2011, section 4, “Radio Frequency Identification, RFID”"
+    },
+    {
+        "country": "Tajikistan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Tanzania",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Thailand",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Timor-Leste",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Togo",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Tonga",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Tunisia",
+        "frequencyPlan": "",
+        "regulatoryDocument": "EN 302 208"
+    },
+    {
+        "country": "Turkey",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "Turkmenistan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Tuvalu",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Uganda",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Ukraine",
+        "frequencyPlan": "unknown, limited CEPT",
+        "regulatoryDocument": "CEPT Rec. 70-03"
+    },
+    {
+        "country": "United Arab Emirates (UAE)",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "EN 302 208, TRA Regulations"
+    },
+    {
+        "country": "United Kingdom (UK)",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "Forum thread about requirements, CEPT Rec. 70-03"
+    },
+    {
+        "country": "United States of America (USA)",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Uruguay",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Vanuatu",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Vatican City (Holy See)",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Venezuela",
+        "frequencyPlan": "US902-928",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Vietnam",
+        "frequencyPlan": "AS923-925 (“AS2”)",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Yemen",
+        "frequencyPlan": "",
+        "regulatoryDocument": ""
+    },
+    {
+        "country": "Zambia",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    },
+    {
+        "country": "Zimbabwe",
+        "frequencyPlan": "EU863-870EU433",
+        "regulatoryDocument": "CRASA follows CEPT Rec. 70-03"
+    }
+]
