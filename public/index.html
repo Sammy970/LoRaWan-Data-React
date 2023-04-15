@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/submit" method="POST" id="myform" enctype="multipart/form-data">
+        <label for="country">Country Name: </label>
+        <input type="text" id="country" name="country">
+        <button type="submit">Submit</button>
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $('#myform').submit((event) => {
+                event.preventDefault();
+                const formData = $('input').val();
+                const data = {
+                    'country': formData
+                }
+                $.post('/submit', data, (response) => {
+                    console.log(response);
+                })
+            })
+        })
+    </script>
+</body>
+
+</html>
